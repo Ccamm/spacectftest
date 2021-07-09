@@ -1,5 +1,5 @@
 {
-    "name": "de2d96spaceunitlib",
+    "name": "7c62f2spacecorp/de2d96spaceunitlib",
     "description": "A SpaceCorp library for converting between standard units of measure.",
     "require": {
         "php-units-of-measure/php-units-of-measure": "^2.1"
